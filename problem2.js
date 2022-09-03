@@ -1,6 +1,6 @@
-var name = "Kunal kumar";
-console.log(name);
-var father_name = "Pramod Kumar";
-console.log(father_name);
-var mother_name = "Ambika Kumari";
-console.log(mother_name);
+var one=1;
+var two =2
+var three =3
+var four=4
+var five=5
+console.log((one*two)+(two*two)+(three*two)+(four*two)+(five*two))
